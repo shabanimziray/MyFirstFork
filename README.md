@@ -6,5 +6,7 @@
  
  *** Pamoja
  
+#*Research interest
 
+    1. Metagenomics
  
